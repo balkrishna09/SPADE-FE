@@ -24,7 +24,7 @@ The project includes the following files and directories:
 •	spade_dna_results.csv: Results of the DNA dataset.
 
 How to Run the Code
-1.	Clone or download the project repository “https://github.com/balkrishna09/SPADE-FE”
+1.	Clone or download the project repository ( https://github.com/balkrishna09/SPADE-FE )
 2.	Place the datasets in the respective directories:
 o	Hypnogram files in datasets/hypnogram/
 o	DNA files in datasets/dna/
