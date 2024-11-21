@@ -36,7 +36,7 @@ o	DNA files in datasets/dna/
 
 Contact
 For questions or issues, please contact: Email: Balkrishna.giri@tuni.fi or Balkrishna.giri07@gmail.com
-GitHub: https://github.com/your_repo
+GitHub: https://github.com/balkrishna09/SPADE-FE
 
 
 
